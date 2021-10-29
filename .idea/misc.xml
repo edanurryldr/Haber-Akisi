@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/drawable/ic_delete.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/drawable/ic_favorite.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/activity_detail.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/activity_favori.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/activity_web_view.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/fav_row_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/layout/row_layout.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/menu/famenu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/menu/fav_menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/menu/menu.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Desktop/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
